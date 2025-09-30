@@ -12,7 +12,7 @@
 }
 .im ,p{
     display: flex;
-     gap: 20px;
+     gap: 19px;
      padding-left: 10px;
      justify-content: start;
      align-items: center;
@@ -138,6 +138,8 @@ button{
 .row{
     background-color:silver;
     margin: 50px;
+    padding-bottom:50px;
+    padding-top: 10px;
 }
 .row-1{
       display: flex;
